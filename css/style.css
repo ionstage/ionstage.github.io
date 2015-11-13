@@ -8,7 +8,7 @@ a {
 }
 
 img {
-  border: none;
+  border: 0;
 }
 
 h3 {
@@ -30,7 +30,7 @@ h3 a:visited {
 }
 
 .list {
-  border: none;
+  border: 0;
   border-spacing: 0;
   margin-left: auto;
   margin-top: 42px;
