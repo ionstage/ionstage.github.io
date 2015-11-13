@@ -32,9 +32,7 @@ h3 a:visited {
 .list {
   border: 0;
   border-spacing: 0;
-  margin-left: auto;
-  margin-top: 42px;
-  margin-right: auto;
+  margin: 42px auto 0;
   padding: 0 15px;
   width: 320px;
 }
@@ -49,8 +47,7 @@ h3 a:visited {
 }
 
 .description-container {
-  padding-left: 5px;
-  padding-top: 5px;
+  padding: 5px;
   vertical-align: top;
 }
 
