@@ -31,11 +31,11 @@ h3 a:visited {
 
 .list {
   border: none;
-  border-spacing: 0px;
+  border-spacing: 0;
   margin-left: auto;
   margin-top: 42px;
   margin-right: auto;
-  padding: 0px 15px;
+  padding: 0 15px;
   width: 320px;
 }
 
